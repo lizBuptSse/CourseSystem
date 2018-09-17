@@ -1,0 +1,149 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2018-9-12, 8:41:06
+    Author     : liyueyang
+*/
+
+.login
+{
+    text-align:center;
+    padding:200px 0;
+    height:100%;
+    width:100%;
+}
+
+.register
+{
+    width: 100%;
+    margin: 75px;
+}
+
+.intro
+{
+    position:absolute;
+    left:30%;
+    top:35%;
+    font-size:40px
+}
+
+.intro-regster
+{
+    position:absolute;
+    left:20%;
+    top:60%;
+}
+
+.intro-login
+{
+    position:absolute;
+    left:55%;
+    top:60%;
+}
+.intro-homepage
+{
+    font-size:20px;
+    position:absolute;
+    left:20%;
+    top:3%;
+}
+.intro-info
+{
+    font-size:20px;
+    position:absolute;
+    left:37%;
+    top:3%;
+}
+
+
+.intro-user
+{
+    font-size:20px;
+    position:absolute;
+    left:64%;
+    top:3%;
+}
+
+.homepage-over-lay
+{
+    font-size:25px;
+    position:absolute;
+    left:20%;
+    top:20%
+}
+
+.register-over-lay
+{
+    font-size:25px;
+    position:absolute;
+    left:20%;
+    top:33%;
+}
+
+.add-over-lay
+{
+    font-size:25px;
+    position:absolute;
+    left:20%;
+    top:33%;
+}
+
+.login-over-lay
+{
+    font-size:25px;
+    position:absolute;
+    left:20%;
+    top:45%;
+}
+
+.delete-over-lay
+{
+    font-size:25px;
+    position:absolute;
+    left:20%;
+    top:45%;
+}
+
+.logout-over-lay
+{
+    font-size:25px;
+    position:absolute;
+    left:20%;
+    top:75%;
+}
+
+.about-over-lay
+{
+    font-size:25px;
+    position:absolute;
+    left:20%;
+    top:60%;
+}
+
+.schedule-over-lay
+{
+    font-size:25px;
+    position:absolute;
+    left:20%;
+    top:57%;
+}
+
+.nav-button-open
+{
+    position:absolute;
+    left:90%;
+    height:40px;
+    top:2%;
+}
+
+.nav-button-close
+{
+    position:absolute;
+    left:90%;
+    height:40px;
+    top:2%;
+}
+
